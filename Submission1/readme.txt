@@ -1,8 +1,7 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
-
+https://www.overleaf.com/project/64e6f0d4a95643eb0b8dec6f
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://www.youtube.com/watch?v=eA46jq8WbCw
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1iJfJU-xgmJCV5JOkPrrtPicpO7jJG5X5w26jUug9lzg/edit#slide=id.gc6f75fceb_0_0
