@@ -1,6 +1,6 @@
 
 Link to unlisted youtube video:
-https://youtu.be/IRPLJDpX6Xc
+https://youtu.be/xSQ9Bdv8yak?si=LxEsEKZGSEszlKYL
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1WDs6krKrWDQQer_PrvkOzR3gdUUJMimzn5WmvU1qYR8/edit?usp=sharing
@@ -14,7 +14,10 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12579
 Group Number:
 33
 
+
 Group Members:
-20101553 Shaoli Farzana
-20141003 Rajvir Ahmed Shuvo
-22241163 Ehsanur Rahman Rhythm
+20101384  Tania Sulatana Tamanna
+20101148  Shehrin Hoque
+20101529  Razin Sumyta Mansoor
+20101326  Mahdi Islam
+20101330  Salequezzaman Khan
