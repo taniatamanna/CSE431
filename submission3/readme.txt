@@ -21,3 +21,10 @@ https://web.stanford.edu/~jurafsky/slp3/?fbclid=IwAR3VhUojsaEUYdBIEaZE8DvPuPsV0l
 
 Link to the book chapter:
 https://web.stanford.edu/~jurafsky/slp3/23.pdf
+Group-33
+Group Members:
+20101384  Tania Sulatana Tamanna
+20101148  Shehrin Hoque
+20101529  Razin Sumyta Mansoor
+20101326  Mahdi Islam
+20101330  Salequezzaman Khan
