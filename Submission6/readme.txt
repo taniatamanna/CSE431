@@ -5,8 +5,8 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=u9EF4RPlzkQ
 Paper title: Sentiment Analysis on Amazon Reviews using Machine Learning Classifier
 
-Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1W2CsaEPTc6MCvoLQRGfo0O1PkeJMv4EN/edit?usp=sharing&ouid=104535486755748822043&rtpof=true&sd=true
-
+Paper presentation (anyone can view without login): 
+https://docs.google.com/presentation/d/1b9qgu4TfG7D2TrnvIC0mHYacEMF4PqP_cYwJdaTYm4E/edit?usp=sharing
 
 
 Group Number: 33
