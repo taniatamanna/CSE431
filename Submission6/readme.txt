@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/64e639ca7141fd0f2f4e540e
 
 Unlisted YouTube video: 
-https://www.youtube.com/watch?v=u9EF4RPlzkQ
+https://youtu.be/azyx9uddf_c?si=-e1OCXt0NXnxn05e
 Paper title: Sentiment Analysis on Amazon Reviews using Machine Learning Classifier
 
 Paper presentation (anyone can view without login): 
