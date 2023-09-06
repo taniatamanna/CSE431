@@ -2,7 +2,7 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can view" link to ST, RA.
 https://www.overleaf.com/project/64e639ca7141fd0f2f4e540e
 
-Unlisted YouTube video: 
+Unlisted YouTube video: https://www.youtube.com/watch?si=043c-b2hzG_QNsbQ&fbclid=IwAR2CITtE91wn26ndNEvwvNfrKgHGwky_ZuYbZqSj2t8hxrdqxxXf6VRNMzI&v=3z1IMBrMADQ&feature=youtu.be
 Paper title: Sentiment Analysis on Amazon Review
 
 Group Number:
