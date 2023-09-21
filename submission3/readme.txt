@@ -7,7 +7,8 @@ https://youtu.be/I7XRSIqZz0g?si=ilOke7MeAyCqMRCF
 
 Native/original format: 
 
-https://drive.google.com/file/d/1Hw91XA9c1CuLKp9PhAt1ujZ963ZsagEBf-Qg/view?usp=sharing
+https://drive.google.com/file/d/1Hw91XA9c1CuLKp9PhAt1ujZ963ZsagEBf-Qg/view?usp=sharing 
+
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
 Jurafsky
